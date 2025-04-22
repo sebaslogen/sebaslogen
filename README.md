@@ -6,7 +6,7 @@
 ---
 
 ## 👀 Find me
-- Sharing knowledge on <a href="https://twitter.com/sebaslogen"> Twitter</a> 
+- Sharing knowledge on <a href="https://twitter.com/sebaslogen">Twitter</a> or <a href="http://bsky.app/profile/sebaslogen.bsky.social">BlueSky</a>
 - Blogging on the <a href="https://engineering.q42.nl/author/sebastian/">Q42 engineering blog</a>
 - And more on <a href="https://medium.com/@sebaslogen">Medium</a>
 - Sharing my career on <a href="https://www.linkedin.com/in/slobato/">LinkedIn</a>
@@ -21,6 +21,12 @@
 - <a href="https://medium.com/@sebaslogen/the-danger-of-assumptions-kotlin-with-android-custom-views-adb79bf2da45">The danger of assumptions: Kotlin with Android custom views</a>
 - <a href="https://medium.com/@sebaslogen/rxjava-recipe-convert-any-android-event-into-a-stream-c614ca686db0">RxJava recipe: Convert any Android event into a stream</a>
 - <a href="https://medium.com/@sebaslogen/the-evolution-journey-of-android-gui-testing-f65005f7ced8">The evolution journey of Android GUI testing</a>
+
+---
+
+## 📝 Talks
+- Droidcon Berlin 2024 <a href="https://www.droidcon.com/2024/08/30/koin-vs-kotlin-inject-the-ultimate-dependency-injection-showdown-on-the-kmp-arena/">Koin vs. Kotlin-inject: The Ultimate Dependency Injection Showdown on the KMP arena</a>
+- Android Makers Paris 2025 <a href="https://androidmakers.droidcon.com/sebastian-lobato-genco/">Skipping Compose performance problems in one commit</a>
 
 ---
 
